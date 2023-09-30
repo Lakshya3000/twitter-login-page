@@ -16,7 +16,7 @@
 }
 
 .outer-div{
-    
+    box-shadow: 8px 8px 12px rgb(33, 32, 32);
     width: 70vh;
     height: 80vh;
     display: flex;
